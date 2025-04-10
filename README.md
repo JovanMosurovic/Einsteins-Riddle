@@ -38,7 +38,3 @@ To run the Word Association Game, follow these steps:
 2. Run the Python script.
 
 3. Follow the on-screen prompts to input word groups, establish associations, and explore game options through the interactive menu.
-
-## Note
-
-- Some parts of the code, such as the actual game logic and implementations of certain functions, are not provided and may need to be developed further to make the game fully functional.
